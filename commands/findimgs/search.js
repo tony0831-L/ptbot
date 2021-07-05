@@ -8,7 +8,7 @@ module.exports = class MeowCommand extends Command {
 			name: 'find',
 			group: 'findimg',
 			memberName: 'find',
-			description: 'findimgby search',
+			description: '使用說明:!find 要找的東西',
 		});
 	}
     async run(userinfo,message){

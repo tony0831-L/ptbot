@@ -8,7 +8,7 @@ module.exports = class MeowCommand extends Command {
 			name: 'show',
 			group: 'findimg',
 			memberName: 'show',
-			description: 'show pages by tag',
+			description: '使用說明:!show 車號',
 		});
 	}
     async run(userinfo,message){
