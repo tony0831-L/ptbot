@@ -8,7 +8,7 @@ module.exports = class MeowCommand extends Command {
 			name: 'show',
 			group: 'findimg',
 			memberName: 'show',
-			description: '使用說明:!show 車號',
+			description: '按照指令觀看要的本子使用說明:!show 車號',
 		});
 	}
     async run(userinfo,message){
