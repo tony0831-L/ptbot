@@ -26,7 +26,7 @@ client.registry
 client.on('ready', () => {
     console.log(`已${client.user.tag}登入!`);
 });
-
+//NDc2NzE5ODQ3ODY3NDE2NTc2.W2rZ9A.tvwDVmq59ck2fXLhcTP57oDwsUA
 
 
 
